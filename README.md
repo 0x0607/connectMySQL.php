@@ -1,0 +1,2 @@
+# connectMySQL.php
+use pdo
